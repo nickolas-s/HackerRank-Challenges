@@ -1,7 +1,6 @@
 // Given a square matrix, calculate the absolute difference between the sums of its diagonals.
 
-// https://www.hackerrank.com/challenges/one-month-preparation-kit-diagonal-difference/problem?h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-month-preparation-kit&playlist_slugs%5B%5D=one-month-week-one
-
+// https://www.hackerrank.com/challenges/diagonal-difference/problem
 
 const square = [
   [11, 2, 4,],

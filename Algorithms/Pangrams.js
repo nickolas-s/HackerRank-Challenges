@@ -1,6 +1,6 @@
 // A pangram is a string that contains every letter of the alphabet. Given a sentence determine whether it is a pangram in the English alphabet. Ignore case. Return either pangram or not pangram as appropriate.
 
-// https://www.hackerrank.com/challenges/one-month-preparation-kit-pangrams/problem?h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-month-preparation-kit&playlist_slugs%5B%5D=one-month-week-one
+// https://www.hackerrank.com/challenges/pangrams/problem
 
 //pangram
 const testInput00 = 'We promptly judged antique ivory buckles for the next prize'; 

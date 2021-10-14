@@ -5,7 +5,7 @@ When they flip page 1, they see pages 2 and 3. Each page except the last page wi
 Given 'n' and 'p', find and print the minimum number of pages that must be turned in order to arrive at page .
 */
 
-// https://www.hackerrank.com/challenges/one-month-preparation-kit-drawing-book/problem?h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-month-preparation-kit&playlist_slugs%5B%5D=one-month-week-two
+// https://www.hackerrank.com/challenges/drawing-book/problem
 
 const numberOfPages = 6;
 const pageToFind = 4

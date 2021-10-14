@@ -1,6 +1,6 @@
 // There is a collection of input strings and a collection of query strings. For each query string, determine how many times it occurs in the list of input strings. Return an array of the results.
 
-// https://www.hackerrank.com/challenges/one-month-preparation-kit-sparse-arrays/problem?utm_campaign=social-buttons&utm_medium=twitter&utm_source=challenge
+// https://www.hackerrank.com/challenges/sparse-arrays/problem
 
 const testStr = ['aba', 'baba', 'aba', 'xzxb'];
 const testQuery = ['aba', 'xzxb', 'ab'];

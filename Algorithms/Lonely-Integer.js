@@ -1,6 +1,6 @@
 // Given an array of integers, where all elements but one occur twice, find the unique element.
 
-// https://www.hackerrank.com/challenges/one-month-preparation-kit-lonely-integer/problem?h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-month-preparation-kit&playlist_slugs%5B%5D=one-month-week-one&h_r=next-challenge&h_v=zen
+// https://www.hackerrank.com/challenges/lonely-integer/problem
 
 const testArr = [1, 2, 3, 4, 3, 2, 1];
 const testArr0 = [1];

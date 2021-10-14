@@ -1,6 +1,6 @@
 // There is a large pile of socks that must be paired by color. Given an array of integers representing the color of each sock, determine how many pairs of socks with matching colors there are.
 
-// https://www.hackerrank.com/challenges/one-month-preparation-kit-sock-merchant/problem?h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-month-preparation-kit&playlist_slugs%5B%5D=one-month-week-two
+// https://www.hackerrank.com/challenges/sock-merchant/problem
 
 const lenghtTestArr = 9;
 const testArr = [10, 20, 20, 10, 10, 30, 50, 10, 20];

@@ -1,6 +1,6 @@
 // Given a time in 12-hour AM/PM format, convert it to military (24-hour) time. Note: - 12:00:00AM on a 12-hour clock is 00:00:00 on a 24-hour clock. 12:00:00PM on a 12-hour clock is 12:00:00 on a 24-hour clock.
 
-// https://www.hackerrank.com/challenges/one-month-preparation-kit-time-conversion/problem?utm_campaign=social-buttons&utm_medium=twitter&utm_source=challenge
+// https://www.hackerrank.com/challenges/time-conversion/problem
 
 const testStr = '12:01:00AM';
 const testStr1 = '12:01:00PM';

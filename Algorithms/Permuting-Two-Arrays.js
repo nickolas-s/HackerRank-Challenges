@@ -1,6 +1,6 @@
 // There are two n-element arrays of integers, A and B. Permute them into some A' and B' such that the relation A'[i] + B'[i] >= k holds for all i where 0 <= i < n. There will be q queries consisting of A, B, and k. For each query, return YES if some permutation A', B' satisfying the relation exists. Otherwise, return NO.
 
-// https://www.hackerrank.com/challenges/one-month-preparation-kit-two-arrays/problem?h_l=interview&playlist_slugs%5B%5D=preparation-kits&playlist_slugs%5B%5D=one-month-preparation-kit&playlist_slugs%5B%5D=one-month-week-one
+// https://www.hackerrank.com/challenges/two-arrays/problem
 
 const testK = 10;
 const queryA = [2, 1, 3];
