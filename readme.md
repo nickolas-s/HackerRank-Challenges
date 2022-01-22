@@ -3,5 +3,6 @@
 # HackerRank Algorithm Challenges
 
 These are the solutions to the algorithm challenges I've solved so far!
+All the solutions are in Javascript.
 
 [My HakcherRank Pofile. 👨‍💻](https://www.hackerrank.com/NickStello)
